@@ -114,7 +114,7 @@ gcc *.c -o addressbook
 
 ---
 
-## ▶️ *ow to Run
+## ▶️ How to Run
 
 ```bash
 ./addressbook
@@ -124,41 +124,41 @@ gcc *.c -o addressbook
 
 ## 🎯 Learning Outcomes
 
-T*rough this project, I strengthened*my understanding of:
+Through this project, I strengthened my understanding of:
 
-1. C Program*ing
+1. C Programming
 2. Structures and Arrays
-3. Fi*e Handling
+3. File Handling
 4. CSV Data Storage
-5. *odular Programming
-6. String Manip*lation
+5. Modular Programming
+6. String Manipulation
 7. Input Validation
-8. CRUD*Operations
-9. Git & GitHub
+8. CRUD Operations
+9. Git and GitHub
 
 ---
 
-#* 🚀 Future Improvements
+## 🚀 Future Improvements
 
-* Advance* Searching
-* Password Protection
-**Contact Sorting
-* Contact Backup
-**Dynamic Memory Allocation
+- Advanced Searching
+- Password Protection
+- Contact Sorting
+- Contact Backup
+- Dynamic Memory Allocation
 
 ---
 
-##*👨‍💻 Author
+## 👨‍💻 Author
 
-### Balla Harsha Var*han
+### Balla Harsha Vardhan
 
-Aspiring Software Engineer | * Programmer | Linux Enthusiast
+Aspiring Software Engineer | C Programmer | Linux Enthusiast
 
-Gi*Hub:
+GitHub:
 https://github.com/Harsha173727
 
 ---
 
 ## ⭐ Support
 
-If you found this project useful, consider giving it a star ⭐ on GitHub.
+If you found this project useful, consider giving it a star on GitHub.

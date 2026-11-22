@@ -1,26 +1,45 @@
-# 📖 Address Book Management System
-A console-based Address Book Management System developed in C Programming. This application allows users to efficiently manage contact information through features such as creating, searching, editing, deleting, and listing contacts. Contact data is stored permanently using file handling techniques.
+# 📖 Address Book Management System in C
 
-##b 🚀 Features
-✅ Add New Contact
-✅ Search Existing Contact
-✅ Edit Contact Details
-✅ Delete Contact
-✅ Display All Contacts
-✅ Contact Validation
-✅ CSV File Storage
-✅ Menu Driven Interface
-✅ Modular Programming Design
-🛠️ Technologies Used
-C Programming
-Structures
-Functions
-File Handling
-Header Files
-Linux Environment
-Git & GitHub
-📂 Project Structure
-AddressBook-Management-System/
+A console-based **Address Book Management System developed in C** that allows users to create, search, edit, delete, and list contacts. Contact information is stored permanently using **CSV file handling**, ensuring data persistence even after the application is closed.
+
+---
+
+## 🚀 Features
+
+* Create a new contact
+* Search contacts
+  * Search by Name
+  * Search by Mobile Number
+  * Search by Email Address
+* Edit existing contacts
+* Delete contacts
+* Display all contacts
+* Save contacts to a CSV file
+* Load contacts from a CSV file
+* Input validation for contact details
+* Menu-driven user interface
+
+---
+
+## 🛠️ Technologies Used
+
+* C Programming
+* Structures
+* Arrays
+* Functions
+* String Handling
+* File Handling
+* CSV Files
+* GCC Compiler
+* Linux Environment
+* Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```text
+Address-Book-Management-System/
 │
 ├── main.c
 ├── contact.c
@@ -35,65 +54,111 @@ AddressBook-Management-System/
 ├── file.c
 ├── contact.csv
 └── README.md
-📋 Functionalities
-➕ Create Contact
-Add new contacts to the address book.
-Store name, mobile number, and email address.
-Validate user input before saving.
-🔍 Search Contact
-Search contacts using:
+```
 
-Name
-Mobile Number
-Email Address
-✏️ Edit Contact
-Update contact information.
-Modify existing contact details.
-❌ Delete Contact
-Permanently remove unwanted contacts.
-📃 List Contacts
-Display all available contacts.
-View complete contact information.
-✅ Contact Validation
-Mobile Number Validation
-Email Validation
-Duplicate Entry Check
-💾 Data Storage
-All contact information is stored in:
+---
 
+## 📋 Functionalities
+
+### ➕ Create Contact
+
+* Add new contacts.
+* Store Name, Mobile Number and Email Address.
+* Validate user input before saving.
+
+### 🔍 Search Contact
+
+* Search by Name
+* Search by Mobile Number
+* Search by Email Address
+
+### ✏️ Edit Contact
+
+* Modify existing contact information.
+* Update details when required.
+
+### ❌ Delete Contact
+
+* Permanently remove contacts.
+
+### 📃 List Contacts
+
+* Display all stored contacts.
+* View complete contact information.
+
+### ✅ Contact Validation
+
+* Mobile Number Validation
+* Email Validation
+* Duplicate Contact Detection
+
+---
+
+## 💾 Data Storage
+
+All contacts are stored in:
+
+```text
 contact.csv
+```
+
 This ensures that data remains available even after the application is closed.
 
-⚙️ Compilation
-Compile the project using:
+---
 
+## ⚙️ How to Compile
+
+```bash
 gcc *.c -o addressbook
-▶️ Run Application
-Execute the program using:
+```
 
+---
+
+## ▶️ *ow to Run
+
+```bash
 ./addressbook
-🎯 Learning Outcomes
-This project helped strengthen my understanding of:
+`*`
 
-C Programming
-File Handling
-Modular Programming
-Data Validation
-Linux Development Environment
-Version Control using Git
-GitHub Repository Management
-🌟 Project Highlights
-Real-World Address Book Application
-Beginner-Friendly Project
-Modular Source Code Design
-Persistent Contact Storage
-Linux-Based Development
-Clean and Maintainable Code Structure
-👨‍💻 Author
-Balla Harsha Vardhan
-Aspiring Software Engineer | C Programmer | Linux Enthusiast
+---
 
-📌 GitHub: https://github.com/Harsha173727
+## 🎯 Learning Outcomes
 
-⭐ Support
-If you found this project useful, consider giving it a ⭐ on GitHub.
+T*rough this project, I strengthened*my understanding of:
+
+1. C Program*ing
+2. Structures and Arrays
+3. Fi*e Handling
+4. CSV Data Storage
+5. *odular Programming
+6. String Manip*lation
+7. Input Validation
+8. CRUD*Operations
+9. Git & GitHub
+
+---
+
+#* 🚀 Future Improvements
+
+* Advance* Searching
+* Password Protection
+**Contact Sorting
+* Contact Backup
+**Dynamic Memory Allocation
+
+---
+
+##*👨‍💻 Author
+
+### Balla Harsha Var*han
+
+Aspiring Software Engineer | * Programmer | Linux Enthusiast
+
+Gi*Hub:
+https://github.com/Harsha173727
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a star ⭐ on GitHub.

@@ -118,7 +118,7 @@ gcc *.c -o addressbook
 
 ```bash
 ./addressbook
-`*`
+```
 
 ---
 
@@ -134,17 +134,17 @@ Through this project, I strengthened my understanding of:
 6. String Manipulation
 7. Input Validation
 8. CRUD Operations
-9. Git and GitHub
+9. Git & GitHub
 
 ---
 
 ## 🚀 Future Improvements
 
-- Advanced Searching
-- Password Protection
-- Contact Sorting
-- Contact Backup
-- Dynamic Memory Allocation
+* Advanced Searching
+* Password Protection
+* Contact Sorting
+* Contact Backup
+* Dynamic Memory Allocation
 
 ---
 
@@ -154,11 +154,11 @@ Through this project, I strengthened my understanding of:
 
 Aspiring Software Engineer | C Programmer | Linux Enthusiast
 
-GitHub:
+GitHub:  
 https://github.com/Harsha173727
 
 ---
 
 ## ⭐ Support
 
-If you found this project useful, consider giving it a star on GitHub.
+If you found this project useful, consider giving it a star ⭐ on GitHub.

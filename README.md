@@ -1,16 +1,16 @@
-📖 Address Book Management System
-A console-based Address Book Management System developed in C Programming. The application enables users to manage contacts efficiently through features such as contact creation, search, editing, deletion, and listing. Contact information is stored permanently using file handling techniques.
+# 📖 Address Book Management System
+A console-based Address Book Management System developed in C Programming. This application allows users to efficiently manage contact information through features such as creating, searching, editing, deleting, and listing contacts. Contact data is stored permanently using file handling techniques.
 
-🚀 Features
-Add New Contact
-Search Existing Contact
-Edit Contact Details
-Delete Contact
-Display All Contacts
-Validate Contact Information
-Store Contacts in CSV Format
-Menu Driven Interface
-Modular Programming Design
+##b 🚀 Features
+✅ Add New Contact
+✅ Search Existing Contact
+✅ Edit Contact Details
+✅ Delete Contact
+✅ Display All Contacts
+✅ Contact Validation
+✅ CSV File Storage
+✅ Menu Driven Interface
+✅ Modular Programming Design
 🛠️ Technologies Used
 C Programming
 Structures
@@ -39,7 +39,7 @@ AddressBook-Management-System/
 ➕ Create Contact
 Add new contacts to the address book.
 Store name, mobile number, and email address.
-Validate entered information before saving.
+Validate user input before saving.
 🔍 Search Contact
 Search contacts using:
 
@@ -47,46 +47,53 @@ Name
 Mobile Number
 Email Address
 ✏️ Edit Contact
+Update contact information.
 Modify existing contact details.
-Update name, mobile number, or email address.
 ❌ Delete Contact
-Remove unwanted contacts permanently from the address book.
+Permanently remove unwanted contacts.
 📃 List Contacts
-Display all stored contacts.
-View contact information in an organized manner.
+Display all available contacts.
+View complete contact information.
 ✅ Contact Validation
-Mobile number validation
-Email validation
-Duplicate entry checking
+Mobile Number Validation
+Email Validation
+Duplicate Entry Check
 💾 Data Storage
 All contact information is stored in:
 
 contact.csv
-This ensures data is preserved even after the application is closed.
+This ensures that data remains available even after the application is closed.
 
 ⚙️ Compilation
+Compile the project using:
+
 gcc *.c -o addressbook
 ▶️ Run Application
+Execute the program using:
+
 ./addressbook
 🎯 Learning Outcomes
-This project helped me gain practical experience in:
+This project helped strengthen my understanding of:
 
 C Programming
-Modular Programming
 File Handling
+Modular Programming
 Data Validation
-Linux Development
-Git Version Control
+Linux Development Environment
+Version Control using Git
 GitHub Repository Management
 🌟 Project Highlights
-Real-world Contact Management System
+Real-World Address Book Application
 Beginner-Friendly Project
-Modular Source Code Structure
-Persistent Data Storage Using CSV
-Developed and Tested on Linux
+Modular Source Code Design
+Persistent Contact Storage
+Linux-Based Development
+Clean and Maintainable Code Structure
 👨‍💻 Author
 Balla Harsha Vardhan
-
 Aspiring Software Engineer | C Programmer | Linux Enthusiast
 
-⭐ If you found this project useful, consider giving it a star.ul, feel free to star the repository.
+📌 GitHub: https://github.com/Harsha173727
+
+⭐ Support
+If you found this project useful, consider giving it a ⭐ on GitHub.
